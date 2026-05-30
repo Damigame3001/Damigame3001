@@ -126,7 +126,7 @@ To contribute to building reliable products that users trust while continuously 
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/oyeladedamilola/)
+* LinkedIn: https://www.linkedin.com/in/oyeladedamilola/
 * Upwork: https://www.upwork.com/freelancers/damilolaoyelade
 * Email: [oyeladedamilola47@gmail.com](mailto:oyeladedamilola47@gmail.com)
 
